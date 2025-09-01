@@ -12,7 +12,7 @@ header{
     height: 605px;
     border: solid;
     border-width: 0px 0px 2px 0px;
-    background-image: url('/assets/images/banner.png'), linear-gradient( #000000f1, #023449,#000000f1);
+    background-image: url(/assets/images/banner.png), linear-gradient( #000000f1, #023449,#000000f1);
     border-color: #33A8DB;
 }
 
